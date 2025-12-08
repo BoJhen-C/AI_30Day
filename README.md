@@ -1,75 +1,78 @@
-# 視差滾動網站
+# Parallax Scrolling Website
 
-歡迎來到視差滾動網站專案！這個專案展示了帶有視差滾動效果的互動網頁，透過 HTML5、CSS3 與 JavaScript 打造沉浸式的瀏覽體驗。
+Welcome to the Parallax Scrolling Website project! This project showcases an interactive and engaging website with a parallax scrolling effect. The website is designed using HTML5, CSS3, and JavaScript to create an immersive experience for users.
 
-[![專案預覽](https://drive.google.com/uc?id=1GFbBHTi7w8weRVqLJ7bkofezEEGg4U30)](https://parallax-website-by-vineet.netlify.app/)
+[![Project Preview](https://drive.google.com/uc?id=1GFbBHTi7w8weRVqLJ7bkofezEEGg4U30)](https://parallax-website-by-vineet.netlify.app/)
 
-## 目錄
+## Table of Contents
 
-- [簡介](#簡介)
-- [功能](#功能)
-- [開始使用](#開始使用)
-- [使用方式](#使用方式)
-- [使用技術](#使用技術)
-- [貢獻方式](#貢獻方式)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
 
-## 簡介
+## Introduction
 
-本專案示範了視差滾動這項網頁設計技巧：當使用者向下滾動時，背景元素以不同速度移動，營造出具備深度感的畫面。
+This project is a demonstration of parallax scrolling — a web design technique that adds depth and interactivity to web pages. As users scroll down the website, the background elements move at different speeds, creating a visually captivating experience.
 
-## 功能
+## Features
 
-- **視差滾動：** 動態的視差效果帶來沉浸式體驗。
-- **互動區塊：** 多個區段各自呈現視差效果，便於探索不同視覺層。
-- **響應式設計：** 在各種裝置與螢幕尺寸上都能流暢呈現。
-- **資訊內容：** 文字區塊解釋視差滾動的概念與應用。
-- **平滑動畫：** 利用動畫與轉場增添視覺流暢度。
-- **導覽列：** 頁首提供快速導覽連結。
+- **Parallax Scrolling:** Engaging parallax scrolling effect that adds a dynamic and immersive element to the website.
+- **Interactive Sections:** Divided into sections, each with its own parallax effect, allowing users to explore different visual layers.
+- **Responsive Design:** The website is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
+- **Informative Content:** Informative text sections explain the concept of parallax scrolling and its applications in web design.
+- **Smooth Animations:** Utilizes animations and transitions to create smooth and visually appealing effects.
+- **Navigation:** The header provides easy navigation links to different sections of the website.
 
-## 開始使用
 
-### 1. 取得專案
+## Getting Started
 
-- **使用 Git 下載**
+### 1. To access the project, you have two options:
 
-  如果已安裝 Git，可透過以下指令取得專案：
+1. **Clone the Repository:**
 
-  ```bash
-  git clone https://github.com/VineetKumar02/Parallax-Website.git
-  ```
+    If you have Git installed, you can clone the repository using the following command:
+    
+    ```bash
+   git clone https://github.com/VineetKumar02/Parallax-Website.git
+   ```
 
-  下載完成後切換至專案目錄：
+    After cloning, navigate to the project directory:
 
-  ```bash
-  cd Parallax-Website
-  ```
+    ```bash
+    cd Parallax-Website
+    ```
 
-- **下載 ZIP**
+2. **Download ZIP:**
 
-  若未安裝 Git，可在 GitHub 透過 **Code** > **Download ZIP** 下載專案壓縮檔，再解壓縮至任意位置。
+    If you don't have Git installed, you can download the ZIP archive of the project. Click the "Code" button on the repository page and choose "Download ZIP." Extract the downloaded ZIP file to a location of your choice.
 
-### 2. 執行專案
+### 2. To run the project, you have two options:
 
-- **使用 Live Server**
-  1. 在編輯器中開啟專案資料夾。
-  2. 右鍵點擊 `index.html` 並選擇「Open with Live Server」。
-  3. 預設瀏覽器會開啟頁面以供檢視。
+1. If you have the Live Server extension installed in your code editor:
+   - Open the project folder in your code editor.
+   - Right-click on the `index.html` file and select "Open with Live Server."
 
-- **直接以瀏覽器開啟**
-  1. 在偏好的編輯器中開啟專案資料夾。
-  2. 直接雙擊 `index.html`，即可在瀏覽器中查看網站。
+   Live Server will launch the page in your default web browser, allowing you to use the view the website.
 
-## 使用方式
+2. If you don't have the Live Server extension:
+    - Open the project folder in your preferred code editor.
+    - Double-click on the `index.html` file to open it in your web browser.
 
-1. 開啟專案並瀏覽 HTML、CSS、JavaScript 檔案，了解視差效果的實作方式。
-2. 隨意修改、嘗試程式碼，看看不同設定如何影響整體的互動體驗。
+## Usage
 
-## 使用技術
+1. Open the project folder and explore the HTML, CSS, and JavaScript files to see how the parallax scrolling effect is implemented.
+
+2. Feel free to modify and experiment with the code to understand how different elements contribute to the overall interactive experience.
+
+## Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 
-## 貢獻方式
+## Contributing
 
-歡迎任何形式的貢獻：修正錯誤、加入功能或改善文件都行！請提交 Pull Request 與我們分享你的改進。
+If you're interested in contributing to this project, whether it's fixing a bug, adding new features, or improving the documentation, your contributions are welcome! Please create a pull request with your changes.
